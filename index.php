@@ -15,7 +15,7 @@
 <body class="h-screen bg-[url('../images/Background.png')] bg-cover flex flex-col gap-2">
 
     <header class="flex justify-between pr-8 xl:hidden">
-        <img class="max-w-[200px] object-contain" src="./images/logo-transparent-png.png" alt="">
+        <img class="max-w-[200px] object-contain" src="./images/logo-transparent-png.png" alt="logo quizz du Site">
 
         <div class="flex items-center gap-3">
             <nav>
