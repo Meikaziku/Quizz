@@ -40,7 +40,7 @@ $quizzThemes = $request->fetchAll(PDO::FETCH_ASSOC);
 
         <section class="bg-[#C8BDBD]/66 w-9/10 max-w-[460px] rounded-t-lg backdrop-blur-[3px] gap-16 p-8 sm:max-w-[921px] xl:max-w-[1200px] 2xl:max-w-[1400px]">
 
-            <div class="flex justify-between pr-8 xl:flex hidden">
+            <div class="hidden justify-between pr-8 xl:flex">
                 <img class="max-w-[200px] object-contain" src="./images/logo/logoQuizz.png" alt="logo quizz du site">
 
 
